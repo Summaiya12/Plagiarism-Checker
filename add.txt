@@ -1,0 +1,1 @@
+Python was designed for readability, and has some similarities to the English language with influence from mathematics.
